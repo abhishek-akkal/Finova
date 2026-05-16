@@ -1,16 +1,95 @@
-# React + Vite
+# Finova
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern fintech-inspired customer segmentation landing page built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Finova is a responsive and visually engaging fintech UI project focused on customer segmentation and digital banking experiences. The project showcases different customer categories through interactive cards, smooth animations, and a clean modern layout.
 
-## React Compiler
+The interface is designed with a premium SaaS and fintech aesthetic using reusable React components and dynamic data rendering.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive modern UI
+- Dynamic customer segmentation cards
+- Smooth hover animations and transitions
+- Horizontal scroll interaction
+- Reusable React component structure
+- Tailwind CSS styling
+- Clean fintech-inspired design system
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- Remix Icons
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── components/
+ │    ├── section1/
+ │    ├── section2/
+ │    ├── Navbar
+ │    ├── RightCard
+ │    ├── RightCardContent
+ │    └── Hero Components
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+While building this project, I learned:
+
+- Component-based architecture in React
+- Passing props dynamically between components
+- Rendering UI using array mapping
+- Creating reusable UI components
+- Building responsive layouts using Tailwind CSS
+- Adding smooth animations and hover interactions
+- Structuring modern frontend projects
+
+---
+
+## 📸 Preview
+
+Add your project screenshots here.
+
+---
+
+## ⚡ Installation
+
+```bash
+git clone https://github.com/yourusername/Finova.git
+cd Finova
+npm install
+npm run dev
+```
+
+---
+
+## 🌟 Future Improvements
+
+- Add Framer Motion animations
+- Improve mobile responsiveness
+- Add dark/light theme support
+- Create additional sections
+- Connect with backend APIs
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
