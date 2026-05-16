@@ -35,7 +35,7 @@ The interface is designed with a premium SaaS and fintech aesthetic using reusab
 ## Video
 
 <video autoplay muted loop controls>
-<source src="assets/Finova-pro-video" type="video/mp4">
+<source src="assets/Finova-pro-video.mp4" type="video/mp4">
 </video>
 
 ---
