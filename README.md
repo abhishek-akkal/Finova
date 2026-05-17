@@ -65,7 +65,7 @@ While building this project, I learned:
 
 ## 📸 Preview
 
-[Watch Finova Demo](./assets/Finova-pro-video.mp4)
+[Watch Finova Demo](https://www.linkedin.com/posts/abhishek-akkal-0a0ab62b2_reactjs-tailwindcss-webdevelopment-ugcPost-7461447870236241920-OWrR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtE-_gB_Calzo0B_hiKlaIm_F6R5PuI0mk)
 
 ---
 
