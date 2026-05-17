@@ -32,14 +32,6 @@ The interface is designed with a premium SaaS and fintech aesthetic using reusab
 
 ---
 
-## Video
-
-<video autoplay muted loop controls>
-<source src="assets/Finova-pro-video.mp4" type="video/mp4">
-</video>
-
----
-
 ## 📂 Project Structure
 
 ```bash
@@ -74,17 +66,6 @@ While building this project, I learned:
 ## 📸 Preview
 
 Add your project screenshots here.
-
----
-
-## ⚡ Installation
-
-```bash
-git clone https://github.com/yourusername/Finova.git
-cd Finova
-npm install
-npm run dev
-```
 
 ---
 
