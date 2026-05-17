@@ -65,7 +65,7 @@ While building this project, I learned:
 
 ## 📸 Preview
 
-Add your project screenshots here.
+[Watch Finova Demo](./assets/Finova-pro-video.mp4)
 
 ---
 
