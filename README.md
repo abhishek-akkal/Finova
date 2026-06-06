@@ -1,6 +1,6 @@
 # Finova
 
-
+A modern fintech-inspired customer segmentation landing page built with React and Tailwind CSS.
 
 ## 🚀 Overview
 
